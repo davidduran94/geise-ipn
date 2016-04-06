@@ -1,0 +1,11 @@
+.nomargin{
+	margin-bottom: 5px; 
+}
+
+.minusculas{
+	text-transform: initial;
+}
+
+.bigger{
+	font-size: 1.15em;
+}
